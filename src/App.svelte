@@ -373,7 +373,7 @@ off
         {/if}
         <p />
       {:else}
-        <p>Searching for a controller via USB, hang on a second or ten. <br><p>If you haven't plugged in your 8mu, do it now.</p>
+        <p>Fing fong fang. <br><p>If you haven't plugged in your 8mu, do it now.</p>
         <p><img src="https://www.musicthing.co.uk/images/8mu_editor_crop.png"></p>
       {/if}
     </MidiEnabled>
