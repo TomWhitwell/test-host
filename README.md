@@ -14,7 +14,7 @@ The 8mu editor is a rework of the 16n editor,  a Javascript app based around [Sv
 - A 16n running firmware v2.0.0 or higher.
 
 ## Installation
-
+ 
     npm install
 
 ## Running the development environment
