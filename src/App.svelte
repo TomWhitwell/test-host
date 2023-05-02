@@ -37,7 +37,7 @@
   $editMode = false;
   let configDirty = false;
   let upgradeString = "";
-  let tips = ["Set a channel  to 0 to disable it","Read the instructions on the back!", "Click Edit Config for device options", "Ignore those eject warnings", "The boot folder is called MT_BOOT"]
+  let tips = ["Set a channel  to 0 to disable it","Read the instructions on the back!", "Click Edit Config for device options", "Ignore those eject warnings", "The boot folder is called MTM_BOOT"]
   let tip = tips[Math.floor(Math.random() * tips.length)]
 
 
@@ -373,7 +373,7 @@ off
         {/if}
         <p />
       {:else}
-        <p>Fing fong fang. <br><p>If you haven't plugged in your 8mu, do it now.</p>
+        <p>Searching for a controller via USB, hang on a second or ten. <br><p>If you haven't plugged in your 8mu, do it now.</p>
         <p><img src="https://www.musicthing.co.uk/images/8mu_editor_crop.png"></p>
       {/if}
     </MidiEnabled>
