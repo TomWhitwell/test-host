@@ -1,4 +1,4 @@
-# 8mu editor
+# 8mu editor 
 
 The 8mu editor allows you to edit the configuration of your 8mu from within a web browser. 
 
